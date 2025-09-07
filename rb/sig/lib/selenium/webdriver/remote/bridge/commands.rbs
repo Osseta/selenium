@@ -1,9 +1,0 @@
-module Selenium
-  module WebDriver
-    module Remote
-      class Bridge
-        COMMANDS: Hash[Symbol, Array[Symbol | String]]
-      end
-    end
-  end
-end

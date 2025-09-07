@@ -1,3 +1,0 @@
-interface _CommandList
-  def command_list: () -> untyped
-end

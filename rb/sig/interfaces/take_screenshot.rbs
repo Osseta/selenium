@@ -1,3 +1,0 @@
-interface _TakeScreenshot
-  def save_screenshot: (String png_path, ?full_page: bool full_page) -> untyped
-end

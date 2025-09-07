@@ -1,5 +1,0 @@
-interface _FullPageScreenshot
-  def full_screenshot: () -> untyped
-
-  def screenshot: () -> untyped
-end

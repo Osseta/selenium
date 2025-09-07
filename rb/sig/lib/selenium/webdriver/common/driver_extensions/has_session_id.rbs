@@ -1,9 +1,0 @@
-module Selenium
-  module WebDriver
-    module DriverExtensions
-      module HasSessionId
-        def session_id: () -> untyped
-      end
-    end
-  end
-end

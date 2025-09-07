@@ -1,3 +1,0 @@
-interface _Clickable
-  def click: (untyped) -> untyped
-end
