@@ -1,3 +1,0 @@
-interface _Platform
-  def unix?: () -> bool
-end
